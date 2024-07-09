@@ -1,0 +1,11 @@
+D flex - to create a full-screen width flexbox container and convert the items into i
+align item - Controls the alignment of all items on the cross axis.
+justify content - Controls the alignment of an individual flex item on the cross axis
+The border-radius - rounds the corners of an element's outer border edge
+box shadow -  adds shadow effects around an element's frame
+Btn primary -It controls its background color, border color, font color in various states (focused, active, disabled, etc.
+Btn Block -  create a block level button that spans the entire width of the parent element.
+Href tag - specifies the URL of the page the link goes to.
+primary text - for blue color 
+form group - the easiest way to add some structure to forms.
+form control - The 'form-control' class in Bootstrap is used to style form elements, such as inputs and select elements, to provide a consistent and clean appearance
